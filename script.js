@@ -1,0 +1,1 @@
+alert("Hey man you are just opt in to start JavaScript")
